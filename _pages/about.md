@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.8"
+  overlay_filter: "0.2"
   overlay_image: ../images/teaser.png
   cta_label: "My CV"
   cta_url: "https://nothinghard.github.io/cv/"
