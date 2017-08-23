@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ------
-* Ph.D student in [Electrical Engineering, National Taiwan University][NTUGIEE], now
-* M.S. in [Electrical Engineering, National Taiwan University][NTUGIEE], 2015
-* B.S. in Electrical Engineering, National Taiwan University, 2013
+* Ph.D student in [Electrical Engineering, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/), now
+* M.S. in [Electrical Engineering, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/), 2015
+* B.S. in [Electrical Engineering, National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php), 2013
 
 Work experience
 ------
@@ -56,11 +56,6 @@ Talks
   
 Service and leadership
 ------
-* [NTU volunteer service club in remote area][ntuShanFu]
+* [NTU volunteer service club in remote area](https://zh-tw.facebook.com/ntuShanFu/)
 * NTUEE men's basketball team, captain, 2011-2012
 * NTUEE men's basketball team, member , 2010-2013
-
-
-[ntuShanFu]: https://zh-tw.facebook.com/ntuShanFu/
-[NTUGIEE]: http://www.ee.ntu.edu.tw/graduate/english/
-[NTUEE]: https://web.ee.ntu.edu.tw/eng/index.php

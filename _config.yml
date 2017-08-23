@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Chun-Min Chang"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Chun-Min Chang"
 description              : &description "Ph.D. student in National Taiwan University, Taiwan"
 url                      : https://NothingHard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -203,6 +203,12 @@ defaults:
     values:
       layout: splash
       author_profile: true
+      classes:
+        - landing
+        - dark-theme
+    header:
+      image: /assets/images/teaser.jpg
+      
   # _teaching
   - scope:
       path: ""
