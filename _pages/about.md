@@ -1,19 +1,14 @@
 ---
-permalink: /
 title: "Chun-Min Chang"
+layout: splash
+permalink: /
 excerpt: "About me"
 author_profile: true
-layout: splash
-classes:
-	- landing
-	- dark-theme
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/teaser.png
   cta_label: "Download"
-  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 redirect_from: 
   - /about/
   - /about.html
