@@ -201,13 +201,8 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: true
-      classes:
-        - landing
-        - dark-theme
-    header:
-      image: /assets/images/teaser.png
       
   # _teaching
   - scope:
