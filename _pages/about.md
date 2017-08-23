@@ -1,14 +1,8 @@
 ---
 title: "Chun-Min Chang"
-layout: splash
 permalink: /
 excerpt: "About me"
 author_profile: true
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/teaser.png
-  cta_label: "Download"
 redirect_from: 
   - /about/
   - /about.html
