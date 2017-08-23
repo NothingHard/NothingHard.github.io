@@ -1,9 +1,7 @@
 ---
 title: "Nothing Hard"
-permalink: /
-excerpt: "The chance favors the prepared mind"
 layout: splash
-author_profile: true
+permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.8"
@@ -11,6 +9,7 @@ header:
   cta_label: "My CV"
   cta_url: "https://nothinghard.github.io/cv/"
   caption: "Photo credit: [**Tina Chang**](https://nothinghard.github.io)"
+excerpt: "The chance favors the prepared mind."
 redirect_from: 
   - /about/
   - /about.html
