@@ -207,7 +207,7 @@ defaults:
         - landing
         - dark-theme
     header:
-      image: /assets/images/teaser.jpg
+      image: /assets/images/teaser.png
       
   # _teaching
   - scope:
