@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ------
-* Ph.D student in Graduate Institute of Electrical Engineering, National Taiwan University, now
-* M.S. in Graduate Institute of Electrical Engineering, National Taiwan University, 2015
+* Ph.D student in [Electrical Engineering, National Taiwan University][NTUGIEE], now
+* M.S. in [Electrical Engineering, National Taiwan University][NTUGIEE], 2015
 * B.S. in Electrical Engineering, National Taiwan University, 2013
 
 Work experience
@@ -50,7 +50,6 @@ Talks
   {% endfor %}</ul>
   
 <!-- Teaching
-------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
@@ -63,3 +62,5 @@ Service and leadership
 
 
 [ntuShanFu]: https://zh-tw.facebook.com/ntuShanFu/
+[NTUGIEE]: http://www.ee.ntu.edu.tw/graduate/english/
+[NTUEE]: https://web.ee.ntu.edu.tw/eng/index.php
