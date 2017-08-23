@@ -3,7 +3,6 @@ title: "Nothing Hard"
 permalink: /
 excerpt: "The chance favors the prepared mind"
 layout: splash
-permalink: /splash-page/
 author_profile: true
 header:
   overlay_color: "#000"
