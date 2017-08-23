@@ -1,6 +1,6 @@
 ---
 title: "Nothing Hard"
-layout: splash
+layout: single
 permalink: /
 header:
   overlay_color: "#000"
