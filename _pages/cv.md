@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ------
-* Ph.D student in [Electrical Engineering, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/), now
-* M.S. in [Electrical Engineering, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/), 2015
-* B.S. in [Electrical Engineering, National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php), 2013
+* Ph.D student in <ins>[Electrical Engineering, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/)</ins>, now
+* M.S. in <ins>[Electrical Engineering, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/)</ins>, 2015
+* B.S. in <ins>[Electrical Engineering, National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php)</ins>, 2013
 
 Work experience
 ------
 * October 2015 - now: Research Assistant
-  * Data Insight Research Laboratory, Institute of Information Science, Academia Sinica
+  * <ins>Data Insight Research Laboratory</ins>, Institute of Information Science, Academia Sinica
   * Specialists: machine learning, deep learning, stochastic optimization
   * Supervisor: Dr. Sheng-Wei (Kuan-Ta) Chen
 
@@ -28,14 +28,15 @@ Work experience
   
 Skills
 -------
-* Research interest
+* Specialists
   * Machine learning
   * Deep learning
   * Stochastic optimization
+
 * Programming language
-  * R (proficient)
-  * Python (familiar)
-  * Tensorflow (familiar)
+  * R - Proficient
+  * Python - Familiar
+  * Tensorflow - Familiar
 
 Publications
 ------
@@ -56,6 +57,6 @@ Talks
   
 Service and leadership
 ------
-* [NTU volunteer service club in remote area](https://zh-tw.facebook.com/ntuShanFu/)
+* <ins>[NTU volunteer service club in remote area](https://zh-tw.facebook.com/ntuShanFu/)</ins>
 * NTUEE men's basketball team, captain, 2011-2012
 * NTUEE men's basketball team, member , 2010-2013
