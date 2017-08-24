@@ -1,0 +1,17 @@
+---
+title: "Do we still need daily production target setting in fully automated fabs?"
+collection: publications
+permalink: /publication/2014-09-Do we still need daily production target setting in fully automated fabs?
+excerpt: 'The production control hierarchy of a fully automated fab can be separated into 4 levels: wafer release (WR), daily production target setting (DPTS), machine allocation (MA), and real-time dispatching (RTD). With the advances of automation technologies, a school of practitioner and researchers have been arguing that: the middle two levels of DPTS and MA traditionally designed for shop floor operators still necessary?'
+date: 2014-09
+venue: '2014 IEEE e-Manufacturing and Design Collaboration Symposium (eMDC)'
+paperurl: 'http://nothinghard.github.io/files/eMDC14_cmc.pdf'
+---
+
+<a href='http://nothinghard.github.io/files/eMDC14_cmc.pdf'>Download paper here</a>
+
+The production control hierarchy of a fully automated fab can be separated into 4 levels: wafer release (WR), daily production target setting (DPTS), machine allocation (MA), and real-time dispatching (RTD). With the advances of automation technologies, a school of practitioner and researchers have been arguing that: the middle two levels of DPTS and MA traditionally designed for shop floor operators still necessary?
+
+![image description](../images/teaser.png)
+
+In this paper, we takes a first step to address the question by simulation. Given the same WR, we compare the traditional DPTS&amp;MA with FIFO dispatching policy to the known real-time dispatching policy, Fluctuation Smoothing Mean Cycle Time and Least Lot Slack-time (FSMCT+LLS). Simulations are over a benchmarking Intel mini-fab of six stages and five tool groups. Preliminary results suggests that DPTS&amp;MA slightly outperforms FSMCT+LLS in both throughput and cycle time but their differences are quite slight. Therefore, comparison in larger scale simulation requires further research, and this paper can serve as the foundation to study whether DPTS&amp;MA is needed in the production control hierarchy of a fully automated fab.
