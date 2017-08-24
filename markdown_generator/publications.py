@@ -97,6 +97,12 @@ for row, item in publications.iterrows():
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
+
+    if len(str(item.image)) > 5:
+        md += "\n[" + item.image_desc + "]("+item.image+")\n"
+        
+    if len(str(item.excerpt1)) > 5:
+        md += "\n" + html_escape(item.excerpt) + "\n"
         
     #md += "\n##### Recommended citation: " + item.citation
     
