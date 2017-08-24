@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ------
-* Ph.D student in <ins>[Electrical Engineering, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/)</ins>, now
-* M.S. in <ins>[Electrical Engineering, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/)</ins>, 2015
-* B.S. in <ins>[Electrical Engineering, National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php)</ins>, 2013
+* Ph.D student in <ins>[EECS, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/)</ins>, now
+* M.S. in <ins>[EE, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/)</ins>, 2015
+* B.S. in <ins>[EE, National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php)</ins>, 2013
 
 Work experience
 ------
 * October 2015 - now: Research Assistant
-  * <ins>Data Insight Research Laboratory</ins>, Institute of Information Science, Academia Sinica
+  * <ins>[Data Insight Research Laboratory](http://dirl.iis.sinica.edu.tw/)</ins>, Institute of Information Science, Academia Sinica
   * Specialists: machine learning, deep learning, stochastic optimization
   * Supervisor: Dr. Sheng-Wei (Kuan-Ta) Chen
 
@@ -28,15 +28,14 @@ Work experience
   
 Skills
 -------
-* Specialists
+* Specialist
   * Machine learning
   * Deep learning
   * Stochastic optimization
 
-* Programming language
-  * R - Proficient
-  * Python - Familiar
-  * Tensorflow - Familiar
+* Programming
+  * Language: R(proficient), Python(familiar), C++(familiar)
+  * Library : Scikit-learn, Tensorflow, Theano
 
 Publications
 ------
