@@ -99,10 +99,10 @@ for row, item in publications.iterrows():
         md += "\n" + html_escape(item.excerpt) + "\n"
 
     if len(str(item.image)) > 5:
-        md += "\n[" + item.image_desc + "]("+item.image+")\n"
-        
+        md += "\n![" + item.image_desc + "]("+item.image+")\n"
+
     if len(str(item.excerpt1)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
+        md += "\n" + html_escape(item.excerpt1) + "\n"
         
     #md += "\n##### Recommended citation: " + item.citation
     
