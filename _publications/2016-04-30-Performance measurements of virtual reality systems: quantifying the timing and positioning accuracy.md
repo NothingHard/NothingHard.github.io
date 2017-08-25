@@ -1,9 +1,9 @@
 ---
-title: "Performance measurements of virtual reality systems: Quantifying the timing and positioning accuracy"
+title: "Performance measurements of virtual reality systems: quantifying the timing and positioning accuracy"
 collection: publications
-permalink: /publication/2016-04-Performance measurements of virtual reality systems: Quantifying the timing and positioning accuracy
+permalink: /publication/2016-04-30-Performance measurements of virtual reality systems: quantifying the timing and positioning accuracy
 excerpt: 'We propose the very first non-intrusive measurement methodol- ogy for quantifying the performance of commodity Virtual Reality (VR) systems. Our methodology considers the VR system under test as a black-box and works with any VR applications. Multiple performance metrics on timing and positioning accuracy are con- sidered, and detailed testbed setup and measurement steps are pre- sented. We also apply our methodology to several VR systems in the market, and carefully analyze the experiment results.'
-date: 2016-04
+date: 2016-04-30
 venue: 'Proceedings of the 2016 ACM on Multimedia Conference. ACM, 2016.'
 paperurl: 'http://nothinghard.github.io/files/ACM_MM16_cmc.pdf'
 ---

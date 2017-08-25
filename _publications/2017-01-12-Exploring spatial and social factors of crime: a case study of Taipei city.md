@@ -1,9 +1,9 @@
 ---
-title: "Exploring Spatial and Social Factors of Crime: A Case Study of Taipei City"
+title: "Exploring spatial and social factors of crime: a case study of Taipei city"
 collection: publications
-permalink: /publication/2017-02-Exploring Spatial and Social Factors of Crime: A Case Study of Taipei City
+permalink: /publication/2017-01-12-Exploring spatial and social factors of crime: a case study of Taipei city
 excerpt: 'Recognizing the significance of transparency and accessibility of government information, the Taipei Government recently published city-wide crime data to encourage relevant research. In this project, we explore the underlying relationships between crimes and various geographic, demographic and socioeconomic factors. First we collect a total of 25 datasets from the City and other publicly available sources, and select statistically significant features via correlation tests and feature selection techniques. With the selected features, we use machine learning techniques to build a data-driven model that is capable of describing the relationship between high crime rate and the various factors.'
-date: 2017-02
+date: 2017-01-12
 venue: 'Asian Conference on Intelligent Information and Database Systems. Springer, Cham, 2017.'
 paperurl: 'http://nothinghard.github.io/files/ACIIDS17_cmc.pdf'
 ---

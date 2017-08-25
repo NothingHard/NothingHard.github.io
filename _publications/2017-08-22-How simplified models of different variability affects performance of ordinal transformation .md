@@ -1,9 +1,9 @@
 ---
-title: "How Simplified Models of Different Variability Affects Performance of Ordinal Transformation "
+title: "How simplified models of different variability affects performance of ordinal transformation "
 collection: publications
-permalink: /publication/2017-08-How Simplified Models of Different Variability Affects Performance of Ordinal Transformation 
+permalink: /publication/2017-08-22-How simplified models of different variability affects performance of ordinal transformation 
 excerpt: 'Ordinal transformation is a technique of ordinal optimization that utilizes a simplified model for performance evaluation and ranking to further reduce computational effort. This presentation-only paper will be focused on investigating how simplified models of different variability levels affect ranking. The simulation-based study investigates capacity allocation of a re-entrant line in the context of semiconductor manufacturing by using two queuing network approximation models, Jackson network approximation (JNA) and queuing network analyzer (QNA). '
-date: 2017-08
+date: 2017-08-22
 venue: '2017 IEEE International Conference on Automation Science and Engineering (CASE)'
 paperurl: 'http://nothinghard.github.io/files/CASE17_cmc_pres.pdf'
 ---

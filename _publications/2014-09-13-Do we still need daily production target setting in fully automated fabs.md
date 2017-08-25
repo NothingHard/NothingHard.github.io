@@ -1,9 +1,9 @@
 ---
-title: "Do we still need daily production target setting in fully automated fabs?"
+title: "Do we still need daily production target setting in fully automated fabs"
 collection: publications
-permalink: /publication/2014-09-Do we still need daily production target setting in fully automated fabs?
+permalink: /publication/2014-09-13-Do we still need daily production target setting in fully automated fabs
 excerpt: 'The production control hierarchy of a fully automated fab can be separated into 4 levels: wafer release (WR), daily production target setting (DPTS), machine allocation (MA), and real-time dispatching (RTD). With the advances of automation technologies, a school of practitioner and researchers have been arguing that: the middle two levels of DPTS and MA traditionally designed for shop floor operators still necessary?'
-date: 2014-09
+date: 2014-09-13
 venue: '2014 IEEE e-Manufacturing and Design Collaboration Symposium (eMDC)'
 paperurl: 'http://nothinghard.github.io/files/eMDC14_cmc.pdf'
 ---
