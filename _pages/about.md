@@ -1,5 +1,5 @@
 ---
-title: "Chun-Min Chang"
+title: "About"
 layout: single
 permalink: /
 header:
@@ -9,7 +9,7 @@ header:
   cta_label: "Curriculum Vitae"
   cta_url: "https://nothinghard.github.io/cv/"
   caption: "Photo credit: [**Tina Chang**](https://nothinghard.github.io)"
-excerpt: "EECS Ph.D. student, National Taiwan University"
+excerpt: ""
 redirect_from: 
   - /about/
   - /about.html
