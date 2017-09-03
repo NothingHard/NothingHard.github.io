@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chun-Min Chang"
+title                    : ""
 title_separator          : "|"
-name                     : &name "Chun-Min Chang"
+name                     : &name ""
 description              : &description "Ph.D. student in National Taiwan University, Taiwan"
 url                      : https://NothingHard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Chun-Min Chang"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in NTU, Taiwan"
+  bio              : "EECS Ph.D. student, NTU"
   location         : "Taipei, Taiwan"
   employer         :
   googlescholar    : 
@@ -93,13 +93,13 @@ author:
   facebook         : "https://www.facebook.com/profile.php?id=100000577495060"
   foursquare       :
   github           : "NothingHard"
-  google_plus      :
+  google_plus      : "vuioap1042@gmail.com"
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
   orcid            : 
-  pinterest        :
+  pinterest        : "machine learning, deep learning"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :

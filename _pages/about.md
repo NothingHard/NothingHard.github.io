@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Chun-Min Chang"
 layout: single
 permalink: /
 header:
