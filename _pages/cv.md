@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-* Ph.D student in <ins>[EECS, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/)</ins>, now
+* Ph.D. student in <ins>[EECS, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/)</ins>, now
 * M.S. in <ins>[EE, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/)</ins>, 2015
 * B.S. in <ins>[EE, National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php)</ins>, 2013
 
@@ -34,12 +34,12 @@ Skills
   * Stochastic optimization
 
 * Programming
-  * Language: R(proficient), Python(familiar), C++(familiar)
-  * Library : Scikit-learn, Tensorflow, Theano
+  * Languages: R (proficient), Python (familiar), C++ (familiar)
+  * Libraries: Tensorflow, Scikit-learn, Theano
 
 Publications
 ------
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
