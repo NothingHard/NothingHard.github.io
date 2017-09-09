@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ------
-* Ph.D. student in <ins>[EECS, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/)</ins>, now
+* Ph.D. student in <ins>[EECS, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/)</ins>, Now
 * M.S. in <ins>[EE, National Taiwan University](http://www.ee.ntu.edu.tw/graduate/english/)</ins>, 2015
 * B.S. in <ins>[EE, National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php)</ins>, 2013
 
-Work experience
+Work Experiences
 ------
-* October 2015 - now: Research Assistant
+* Research assistant, October 2015 - Now
   * <ins>[Data Insight Research Laboratory](http://dirl.iis.sinica.edu.tw/)</ins>, Institute of Information Science, Academia Sinica
   * Specialists: machine learning, deep learning, stochastic optimization
   * Supervisor: Dr. Sheng-Wei (Kuan-Ta) Chen
 
-* July 2014 - May 2015: R&D Intern
+* R&D intern, July 2014 - May 2015
   * Microsoft Technology Center, Taipei, Taiwan
   * Projects: IoT applications on Microsoft Azure Platform
   
