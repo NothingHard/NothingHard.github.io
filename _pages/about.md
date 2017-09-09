@@ -16,8 +16,8 @@ redirect_from:
 author_profile: true
 ---
 
-I am currently a research assistant in [Data Insight Research Lab](http://dirl.iis.sinica.edu.tw/) of Academia Sinica, and also a first year Ph.D. student in Electrical Engineering and Computer Science (EECS) in National Taiwan University, working with Dr. Sheng-Wei Chen and Dr. Chin-Laung Lei. My research focuses on Deep Learning and its applications in Computer Vision, especially interested in medical imageology.
+I am currently a research assistant in [Data Insight Research Lab](http://dirl.iis.sinica.edu.tw/) of Academia Sinica, and also a first year Ph.D. student in Electrical Engineering and Computer Science (EECS) in National Taiwan University, working with Dr. Sheng-Wei (a.k.a. Kuan-Ta) Chen and Dr. Chin-Laung Lei. My research focuses on Deep Learning and its applications, especially in medical imageology.
 
-In addition to my research experience, I am one of the invited speakers of [AI Month 2017](http://ds.sinica.edu.tw/ai-month-2017/) and [ML Month 2017](http://ds.sinica.edu.tw/category/2017-ml-month/) in Academia Sinica, and give a [hands-on tutorials of deep learning](http://foundation.datasci.tw/step-by-step-dl-170813/) in Data Science Conference in Taiwan
+In addition to my research experience, I am one of the invited speakers to introduce machine learning and deep learning in both theoretical and practical aspects in [AI Month 2017](http://ds.sinica.edu.tw/ai-month-2017/) and [ML Month 2017](http://ds.sinica.edu.tw/category/2017-ml-month/), Academia Sinica. Moreover, I also give a [hands-on tutorial of deep learning](http://foundation.datasci.tw/step-by-step-dl-170813/) and a [hands-on tutorial of practical data analysis in R]() in [Data Science Conference in Taiwan](http://foundation.datasci.tw/).
 
 See my [CV](https://nothinghard.github.io/cv/) for more details.
