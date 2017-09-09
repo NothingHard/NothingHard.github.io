@@ -13,8 +13,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <img width="30%" src="{{post.header.teaser}}"></img>
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" width="70%">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" width=70%>
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
