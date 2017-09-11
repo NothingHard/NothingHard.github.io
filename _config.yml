@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Chun-Ming Chang"
-title_separator          : "||"
+title_separator          : "(@)"
 name                     : &name "Chun-Ming Chang"
-description              : &description "Ph.D. student in National Taiwan University, Taiwan"
+description              : &description "Ph.D. student in National Taiwan University"
 url                      : https://NothingHard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "NothingHard/NothingHard.github.io"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chun-Min Chang"
+  name             : "Chun-Ming Chang"
   avatar           : "profile.png"
   bio              : "EECS Ph.D. student, NTU"
   location         : "Taipei, Taiwan"
