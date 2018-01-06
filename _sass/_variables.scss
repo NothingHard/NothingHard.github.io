@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 16;
+$doc-font-size              : 14;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -22,7 +22,7 @@ $lato			                  : "Lato";
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
-$segoe                      : "Segoe UI", sans-serif;
+$segoe                      : "Segoe UI", "Segoe UI Light", sans-serif;
 $roboto                     : "Roboto", sans-serif;
 
 /* serif typefaces */
