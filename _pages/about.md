@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.3"
   overlay_image: ../images/teaser.png
   cta_label: "Curriculum Vitae"
-  cta_url: "https://nothinghard.github.io/cv/"
+  cta_url: "https://nothinghard.github.io/online-cv/"
   caption: "Photo credit: [**Tina Chang**](https://nothinghard.github.io)"
 excerpt: ""
 redirect_from: 
@@ -20,4 +20,4 @@ I am currently a research assistant in [Data Insight Research Lab](http://dirl.i
 
 In addition to my research experience, I am one of the invited speakers to introduce machine learning and deep learning in both theoretical and practical aspects in [AI Month 2017](http://ds.sinica.edu.tw/ai-month-2017/) and [ML Month 2017](http://ds.sinica.edu.tw/category/2017-ml-month/), Academia Sinica. Moreover, I also give a [hands-on tutorial of deep learning](http://foundation.datasci.tw/step-by-step-dl-170813/) and a [hands-on tutorial of practical data analysis in R]() in [Data Science Conference in Taiwan](http://foundation.datasci.tw/).
 
-See my [CV](https://nothinghard.github.io/cv/) for more details.
+See my [CV](https://nothinghard.github.io/online-cv/) for more details.
