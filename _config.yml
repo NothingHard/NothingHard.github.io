@@ -11,9 +11,9 @@ title                    : "Chun-Ming Chang"
 title_separator          : "@"
 name                     : &name "Chun-Ming Chang"
 description              : &description "Ph.D. student in National Taiwan University"
-url                      : https://NothingHard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://twcmchang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "NothingHard/NothingHard.github.io"
+repository               : "twcmchang/twcmchang.github.io"
 teaser                   : "teaser.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         : "https://www.facebook.com/profile.php?id=100000577495060"
   foursquare       :
-  github           : "NothingHard"
+  github           : "twcmchang"
   google_plus      : "vuioap1042@gmail.com"
   keybase          :
   instagram        :
